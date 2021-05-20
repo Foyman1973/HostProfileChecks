@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TagData>
+   <Config version="1" updated="19-MAY-2021">
+      <SendMail value="TRUE"/>
+      <DoReporting value="FALSE"/>
+      <SMTP value="smtp.your.domain"/>
+      <FROM value="from@your.domain"/>
+      <FROM_TEST value="DEV_from@your.domain"/>
+      <TO value="you@your.domain"/>
+      <TO_TEST value="test@your.domain"/>
+      <ReportTitle value="vSphere Host Profile Compliance"/>
+      <vCenterList value="D:\SCRIPTS\CONTROL\vCenterList.csv"/>
+      <vCenterList_TEST value="C:\CONTROL\vCenterList_TEST.csv"/>
+      <DevMode value="TRUE"/>
+      <TableFormats>
+      	<Blue value="&lt;style type=&quot;text/css&quot;&gt;body{font-family:calibri;font-size:10pt;font-weight:normal;color:black;}th{text-align:center; text-shadow: 1px 1px black; background-color:#00417c; color:#FFFFFF; font-weight:bold; font-size:12px;}td{background-color:#F5F5F5; font-weight:normal; font-size:10px; padding: 3px 10px 3px 10px;}&lt;/style&gt;"/>
+      	<Red value="&lt;style type=&quot;text/css&quot;&gt;body{font-family:calibri;font-size:10pt;font-weight:normal;color:black;}th{text-align:center; text-shadow: 1px 1px black; background-color:#800000; color:#FFFFFF; font-weight:bold; font-size:12px;}td{background-color:#F5F5F5; font-weight:normal; font-size:10px; padding: 3px 10px 3px 10px;}&lt;/style&gt;"/>
+      	<Green value="&lt;style type=&quot;text/css&quot;&gt;body{font-family:calibri;font-size:10pt;font-weight:normal;color:black;}th{text-align:center; text-shadow: 1px 1px black; background-color:#006600; color:#FFFFFF; font-weight:bold; font-size:12px;}td{background-color:#F5F5F5; font-weight:normal; font-size:10px; padding: 3px 10px 3px 10px;}&lt;/style&gt;"/>
+      	<Purple value="&lt;style type=&quot;text/css&quot;&gt;body{font-family:calibri;font-size:10pt;font-weight:normal;color:black;}th{text-align:center; text-shadow: 1px 1px black; background-color:#400080; color:#FFFFFF; font-weight:bold; font-size:12px;}td{background-color:#F5F5F5; font-weight:normal; font-size:10px; padding: 3px 10px 3px 10px;}&lt;/style&gt;"/>
+      </TableFormats>
+   </Config>
+</TagData>
